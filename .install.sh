@@ -10,5 +10,5 @@ git clone git://github.com/brodul/linux_config.git
 
 
 
-cp -r linux_config/  $HOME/
+cp -r linux_config/*  $HOME/
 
