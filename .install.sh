@@ -9,6 +9,6 @@ fi
 git clone git://github.com/brodul/linux_config.git
 
 
-
-cp -a linux_config/  $HOME/
+rm -rf linux_config/.git
+cp -r ./.[a-zA-Z0-9]*  $HOME/
 
